@@ -2,7 +2,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 
 
- const BASE_URL = 'https://explore-kerala-backend.onrender.com'
+ const BASE_URL = 'http://localhost:2345'
  const token = `Bear ${localStorage.getItem('product-token')};`
 
  export const login=async(data)=>{

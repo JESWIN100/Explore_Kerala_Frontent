@@ -1,0 +1,36 @@
+/* Login.css */
+.login-container {
+    margin-top: 50px; /* Example margin for top spacing */
+  }
+  
+  .login-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+  }
+  
+  .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .is-invalid {
+    border-color: #dc3545 !important;
+  }
+  
+  .text-danger {
+    font-size: 0.875rem;
+    margin-top: 5px;
+  }
+  
+  .signup-link {
+    cursor: pointer;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .signup-link:hover {
+    text-decoration: underline;
+  }
+  
