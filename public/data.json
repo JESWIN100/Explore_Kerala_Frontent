@@ -1,0 +1,204 @@
+[
+    {
+      "id":1,
+      "imageUrl": "https://i0.wp.com/oneday.travel/wp-content/uploads/one-day-munnar-local-sightseeing-tour-package-with-top-station-by-private-car-header.jpg?fit=1920%2C1280&ssl=1",
+      "title": "Munnar",
+      "description": "Munnar is a town and hill station located in the Idukki district of Kerala. Situated at around 1,600 meters (5,200 ft) above sea level, it is known for its scenic beauty, tea gardens, and pleasant weather.",
+      "text": "Munnar is a hill station known for its scenic beauty, tea gardens, and pleasant weather.",
+      "location": "Idukki district'"
+    },
+    {
+      "id":2,
+      "imageUrl": "https://t4.ftcdn.net/jpg/02/04/86/49/360_F_204864970_dc486Aw4n6Vk5Eqv9kOIBb18WNEagRS9.jpg",
+      "title": "Alleppey (Alappuzha)",
+      "description": "Alleppey, also known as Alappuzha, is famous for its backwaters, houseboat cruises, and serene landscapes.",
+      "text": "Famous for its backwaters, houseboat cruises, and serene landscapes.",
+      "location": "Alappuzha district"
+    },
+    {
+      "id":3,
+      "imageUrl": "https://www.assureshift.in/sites/default/files/images/content-images/4-ravipuram-posh-area-in-kochi.jpg",
+      "title": "Kochi (Cochin)",
+      "description": "Kochi, also known as Cochin, is a vibrant city in Kerala known for its historical landmarks, cultural diversity, and bustling markets.",
+      "text": "A vibrant city known for its historical landmarks, cultural diversity, and bustling markets.",
+      "location": "Ernakulam district"
+    },
+    {
+         "id":4,
+      "imageUrl": "https://hblimg.mmtcdn.com/content/hubble/img/desttvimg/mmt/destination/m_wayanad_tv_destination_img_4_l_619_928.jpg",
+      "title": "Wayanad",
+      "description": "Wayanad is renowned for its wildlife sanctuaries, lush greenery, and picturesque mountains.",
+      "text": "Renowned for its wildlife sanctuaries, lush greenery, and picturesque mountains.",
+      "location": "Wayanad district"
+    },
+    {
+      "id":5,
+      "imageUrl": "https://blog.untravel.com/wp-content/uploads/2017/04/Main-38.jpg",
+      "title": "Kovalam",
+      "description": "Kovalam is famous for its pristine beaches, Ayurvedic treatments, and water activities.",
+      "text": "Famous for its pristine beaches, Ayurvedic treatments, and water activities.",
+      "location": "Thiruvananthapuram District"
+    },
+    {
+      "id":6,
+      "imageUrl": "https://greatindiantours.com/wp-content/uploads/2022/08/Thekkady.jpg",
+      "title": "Thekkady",
+      "description": "Thekkady is known for the Periyar Wildlife Sanctuary, spice plantations, and boat rides on Periyar Lake.",
+      "text": "Known for the Periyar Wildlife Sanctuary, spice plantations, and boat rides on Periyar Lake.",
+      "location": "Idukki District"
+    },
+    {
+         "id":7,
+      "imageUrl": "https://www.keralatourism.org/uploads/kerala-365/share-img/athirappilly-20220210102742100269.jpg",
+      "title": "Athirappilly",
+      "description": "Athirappilly is famous for the majestic Athirappilly Waterfalls, often referred to as the 'Niagara of India'.",
+      "text": "Famous for the majestic Athirappilly Waterfalls, often referred to as the 'Niagara of India'.",
+      "location": "Thrissur district'"
+    },
+    {
+      "id":8,
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c8/f1/cb/varkala-beach.jpg?w=1200&h=1200&s=1",
+      "title": "Varkala",
+      "description": "Varkala is known for its cliffside beaches, natural springs, and the Janardana Swami Temple.",
+      "text": "Known for its cliffside beaches, natural springs, and the Janardana Swami Temple.",
+      "location": "Thiruvananthapuram district"
+    },
+    {
+      "id":9,
+      "imageUrl": "https://www.keralatourism.org/images/destination/mobile/ponmudi_hill_station_thiruvananthapuram20131128115532_243_1.jpg",
+      "title": "Ponmudi",
+      "description": "Ponmudi is a serene hill station known for its lush green landscapes, tea gardens, and trekking trails.",
+      "text": "A serene hill station known for its lush green landscapes, tea gardens, and trekking trails.",
+      "location": "Thiruvananthapuram district."
+    },
+    {
+      "id":10,
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOI3oYAj7_FjstfW1SAbz3n6bd75wQjVGfGIKE8=w610-h353-n-k-no",
+      "title": "Kumarakom",
+      "description": "Kumarakom is famous for its backwater tourism, bird sanctuary, and luxury houseboat cruises.",
+      "text": "Famous for its backwater tourism, bird sanctuary, and luxury houseboat cruises.",
+      "location": "Kottayam district"
+    },
+    {
+      "id":11,
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNFMHdgrRjxHlNuTqLt6hTO2mSPQQ4X8nDBIuQP=w608-h351-n-k-no",
+      "title": "Muzhappilangad",
+      "description": "Muzhappilangad is home to the only drive-in beach in Kerala, offering a unique coastal experience.",
+      "text": "Home to the only drive-in beach in Kerala, offering a unique coastal experience.",
+      "location": "Kannur district"
+    },
+    {
+      "id":12,
+      "imageUrl": "https://lh4.googleusercontent.com/proxy/cnt7a22d1ktcUeE82JrEEVv4h10nlpnCqC2nF63ycuuxiC1XufAV_XeH1kJo6gRQsxv2mVmfe93ctqrXO6IY1-bLWVNW9lgTJsjDWj4fKqb1Qa8P9p6xGcINuylKuTZL-dwU0uvAseV1Te7CSatyvWiODNwgVAA=w610-h353-n-k-no",
+      "title": "Thiruvananthapuram",
+      "description": "Thiruvananthapuram is the capital city of Kerala known for its historical landmarks, cultural heritage, and the famous Padmanabhaswamy Temple.",
+      "text": "The capital city known for its historical landmarks, cultural heritage, and the famous Padmanabhaswamy Temple.",
+      "location": "Thiruvananthapuram district'"
+    },
+    {
+      "id":13,
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcREyRjA1MCCED0xWPE94wd-MlImkfVxfIjvl_QeVpuqMr8j9C7_Uru4cMA6ppuG21rZFPcryGuyi-HsOE2Nvry3TGjCL6vkkLCJZLI1jw",
+      "title": "Silent Valley National Park",
+      "description": "Silent Valley National Park is a pristine rainforest in Kerala known for its rich biodiversity, unique wildlife, and lush greenery.",
+      "text": "A pristine rainforest with rich biodiversity, unique wildlife, and lush greenery.",
+      "location": "Palakkad District"
+    },
+    {
+      "id":14,
+      "imageUrl": "https://i.pinimg.com/736x/86/40/f0/8640f0e549ab6ebb1d4874be75e0fedc.jpg",
+      "title": "Peermedu",
+      "description": "Peermedu is a scenic hill station known for its tea, coffee, and spice plantations, along with picturesque landscapes.",
+      "text": "A scenic hill station known for its tea, coffee, and spice plantations, along with picturesque landscapes.",
+      "location": "Idukki district"
+    },
+    {
+      "id":15,
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMMj1agylB-JgtnODGfuJpFU1XEBN5ynJKxbsn_=w608-h351-n-k-no",
+      "title": "Guruvayur",
+      "description": "Guruvayur is known for the famous Guruvayur Sri Krishna Temple, one of the most important pilgrimage sites in Kerala.",
+      "text": "Known for the famous Guruvayur Sri Krishna Temple, one of the most important pilgrimage sites in Kerala.",
+      "location": "Thrissur District"
+    },
+    {
+      "id":16,
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSHy_LUA8nMw4Ii4pF90b7BhlfPDF4lN_K2UpZZqgdIhls8_MVSQlFouQ9iwMMrxROKKgu0GO3WdpGJXS_DmZ2hI13_R185jvUepSXq7do",
+      "title": "Munambam Beach",
+      "description": "Munambam Beach is a tranquil beach known for its fishing harbor, beautiful sunsets, and serene environment.",
+      "text": "A tranquil beach known for its fishing harbor, beautiful sunsets, and serene environment.",
+      "location": "Ernakulam District"
+    },
+    {
+      "id":17,
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQb_oyAv1lQOPOAXUQdCZThDwkIz40cB9qVrNg46IDBHWNn7k9OVI0tEuxE4x8PeP1I2IjK5aYycfYH6KGRoqqf_qiDMJfwPqjSGeMipw",
+      "title": "Thalassery",
+      "description": "Thalassery is known for its historical significance, the Thalassery Fort, and its unique blend of culture and cuisine.",
+      "text": "Known for its historical significance, the Thalassery Fort, and its unique blend of culture and cuisine.",
+      "location": "Kannur district'"
+    },
+    {
+      "id":18,
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOknWPCHdxHFvd3d1vQIddtf2gQAJ7wHQFlwu23=w608-h351-n-k-no",
+      "title": "Pathanamthitta",
+      "description": "Pathanamthitta is a pilgrimage center in Kerala known for the Sabarimala Temple and the Maramon Convention.",
+      "text": "A pilgrimage center known for the Sabarimala Temple and the Maramon Convention.",
+      "location": "Pathanamthitta district"
+    },
+    {
+      "id":19,
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPJ1kLI7NWOLhULH2ffuCee_I1tVcJZeGQJAjLt=w608-h351-n-k-no",
+      "title": "Kollam",
+      "description": "Kollam is known for its backwaters, Ashtamudi Lake, and historical significance as an ancient trade center.",
+      "text": "Known for its backwaters, Ashtamudi Lake, and historical significance as an ancient trade center.",
+      "location": "Kollam district"
+    },
+    {
+      "id":20,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcT8gTi29K32N72dxz8f2bd6DxMCBqkJkt93Xyqg_dZZs67jt5dRcSoTyOCxr6It6ZYkJO6DwMm5s3J4vDIzbuvV2YSi7UYf6If11LF1BQ",
+      "title": "Palakkad",
+      "description": "Palakkad, known as the 'Gateway of Kerala', is famous for its forts, dams, and cultural heritage.",
+      "text": "Known as the 'Gateway of Kerala', famous for its forts, dams, and cultural heritage.",
+      "location": "Palakkad district'"
+    },
+    {
+      "id":21,
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/41/2c/6f/kottakunnu-park.jpg?w=400&h=300&s=1",
+      "title": "Malappuram",
+      "description": "Malappuram is renowned for its rich history, cultural festivals, and the Kottakkunnu hill gardens.",
+      "text": "Renowned for its rich history, cultural festivals, and the Kottakkunnu hill gardens.",
+      "location": "Malappuram district"
+    },
+    {
+      "id":22,
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPgdrLV5mKrSPjqQ1Ro5peoR0SSKD2MOxd1ZKdT=w610-h353-n-k-no",
+      "title": "Nelliampathy",
+      "description": "Nelliampathy is a hill station known for its dense forests, orange cultivation, and trekking trails.",
+      "text": "A hill station known for its dense forests, orange cultivation, and trekking trails.",
+      "location": "Palakkad district"
+    },
+    {
+      "id":23,
+  
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSQe2ILF-3jZ7YAiCrMhdRLrc782eHnp1eRadfsxpCjk6QC1-ep7LQWCwCJaOAB_majwGd_CkKx25EqDDc46OhQDjBu-3divNJHmAQHfg",
+      "title": "Bekal",
+      "description": "Bekal is famous for the Bekal Fort, scenic beaches, and picturesque views of the Arabian Sea.",
+      "text": "Famous for the Bekal Fort, scenic beaches, and picturesque views of the Arabian Sea.",
+      "location": "Kasaragod district"
+    },
+    {
+         "id":24,
+      "imageUrl": "https://ourbackpacktales.com/wp-content/uploads/2019/11/Kannur-Eye-in-Palakkayam-Thattu-Kannur-OurBackpackTales.jpg",
+      "title": "Kannur",
+      "description": "Kannur is known for its traditional Theyyam performances, historical landmarks, and beautiful beaches.",
+      "text": "Known for its traditional Theyyam performances, historical landmarks, and beautiful beaches.",
+      "location": "Kannur District"
+    },
+    {
+      "id":25,
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMGsKr0rH9aqkcDxy8nNjsHdXrxXF4VAziTtbPk=w610-h353-n-k-no",
+      "title": "Thrissur",
+      "description": "Thrissur, known as the 'Cultural Capital of Kerala', is famous for the Thrissur Pooram festival and its historical sites.",
+      "text": "Known as the 'Cultural Capital of Kerala', famous for the Thrissur Pooram festival and historical sites.",
+      "location": "Thrissur district"
+    }
+  ]
+  

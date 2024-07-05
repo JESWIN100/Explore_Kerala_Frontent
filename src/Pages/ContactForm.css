@@ -1,0 +1,44 @@
+/* ContactForm.css */
+.full-height {
+    min-height: 100vh;
+  }
+  
+  .text-brand {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .btn-brand {
+    background-color: #007bff;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-brand:hover {
+    background-color: #0056b3;
+  }
+  
+  .form-control {
+    border: 2px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.3s ease;
+  }
+  
+  .form-control:focus {
+    border-color: #007bff;
+    box-shadow: none;
+  }
+  
+  .alert-danger {
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+  }
+  

@@ -1,0 +1,8 @@
+.logo {
+    height: 40px; /* Adjust the height as needed */
+  }
+  
+  .active {
+    font-weight: bold;
+    color: #1cc160 !important; /* Bootstrap primary color */
+  }
