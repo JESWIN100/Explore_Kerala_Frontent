@@ -83,7 +83,7 @@ const Login = () => {
             </p>
 
             <ReCAPTCHA
-              sitekey="6LfLBAkqAAAAABkm_-RxlPDdFcGlfril1k0f3q-b"
+              sitekey="6LfmBgkqAAAAAADMOfAeEQArxmP_46e2LarTLHPP"
               onChange={(val) => setCapVal(val)}
             />
 
