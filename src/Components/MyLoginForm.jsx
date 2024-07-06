@@ -37,7 +37,7 @@ toast.error(error.response.data.error)
 
   return (
     <Container>
-      <Row className="justify-content-md-center">
+      <Row className="justify-content-center align-items-center d-flex vh-100 ">
         <Col md="4">
           <h2 className="text-center">Login</h2>
           <Form onSubmit={handleSubmit(onSubmit)}>

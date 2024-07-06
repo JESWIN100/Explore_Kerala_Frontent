@@ -30,8 +30,8 @@ const Signup = () => {
   const password = watch('password');
 
   return (
-    <Container>
-      <Row className="justify-content-md-center">
+    <Container className=''>
+      <Row className="justify-content-center align-items-center d-flex vh-100">
         <Col md="4">
           <h2 className="text-center">Signup</h2>
           <Form onSubmit={handleSubmit(onSubmit)}>
